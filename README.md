@@ -375,4 +375,3 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) pa
 ⭐ **¡No olvides dar una estrella al proyecto si te gustó!** ⭐
 
 🎸 **¡Disfruta comprando guitarras!** 🎸
-
